@@ -1,4 +1,4 @@
-# A Collection of Materials for Math 30 
+# A Collection of Materials for Math 30-1 
 ## Relations and Functions 
 
 ## Trigonometry 
