@@ -5,7 +5,7 @@
 ### Algebra And Number 
 
 #### Outcome 2
-* <a href="https://werklunddreamteam.github.io/Math10/Math10C/AN/AN2/AN2I.pdf"> Irrational Numbers And Radical Conversions </a>
+* <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2I.pdf"> Irrational Numbers And Radical Conversions </a>
 * <a href="https://mrfanning.github.io/Math10/AN/AN2/AN2II.pdf"> Approximating Radicals </a>
 * <a href="https://mrfanning.github.io/Math10/AN/AN2/AN2Review.pdf"> AN2 Review </a>
 
