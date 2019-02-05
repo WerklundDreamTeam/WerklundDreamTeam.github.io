@@ -1,4 +1,4 @@
-# Welcome To A Collection Of Math 10 Materials 
+# A Collection Of Materials For Math 10 
 ## Measurement
 
 ## Algebra And Number 
