@@ -5,14 +5,16 @@
 ### **Algebra And Number** 
 
 ### Outcome 2
-#### Lesson Plans: 
-#### Materials: 
+Lesson Plans: </br>
+
+Materials: 
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2I.pdf"> Irrational Numbers And Radical Conversions </a>
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2II.pdf"> Approximating Radicals </a>
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2Review.pdf"> AN2 Review </a>
 
 #### Outcome 3
-Lesson Plans: 
+Lesson Plans: </br>
+
 Materials: 
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN3/AN3I.pdf"> Exponent Laws I </a>
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN3/AN3II.pdf"> Exponent Laws II </a>
