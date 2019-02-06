@@ -12,8 +12,8 @@
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2Review.pdf"> AN2 Review </a>
 
 #### Outcome 3
-#### Lesson Plans: 
-#### Materials: 
+Lesson Plans: 
+Materials: 
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN3/AN3I.pdf"> Exponent Laws I </a>
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN3/AN3II.pdf"> Exponent Laws II </a>
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN3/AN3Proofs.pdf"> Exponent Law Proof Assignment </a>
