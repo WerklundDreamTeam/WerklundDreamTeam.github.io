@@ -2,9 +2,9 @@
 ## Math 10C
 ### Measurement
 
-### Algebra And Number 
+### **Algebra And Number** 
 
-#### Outcome 2
+### Outcome 2
 #### Lesson Plans: 
 #### Materials: 
 * <a href="https://werklunddreamteam.github.io/Math10/Math10C/AlgebraAndNumber/AN/AN2/AN2I.pdf"> Irrational Numbers And Radical Conversions </a>
